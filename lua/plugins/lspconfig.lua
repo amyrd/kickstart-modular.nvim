@@ -1,4 +1,5 @@
 return {
+  { 'mfussenegger/nvim-jdtls' },
   { -- LSP Configuration & Plugins
     'neovim/nvim-lspconfig',
     dependencies = {
