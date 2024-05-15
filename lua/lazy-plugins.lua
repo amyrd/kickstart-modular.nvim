@@ -1,5 +1,5 @@
 require('lazy').setup({
-  'tpope/vim-sleuth', 
+  'tpope/vim-sleuth',
   -- Use `opts = {}` to force a plugin to be loaded.
   { 'numToStr/Comment.nvim', opts = {} },
 
@@ -23,9 +23,13 @@ require('lazy').setup({
 
   require 'plugins/treesitter',
 
-  require 'plugins/neo-tree',
+  require 'plugins/nvim-tree',
 
   require 'plugins/ui',
+
+  require 'plugins/autopairs',
+
+  require 'plugins/copilot',
 }, {
   ui = {
     -- If you are using a Nerd Font: set icons to an empty table which will use the

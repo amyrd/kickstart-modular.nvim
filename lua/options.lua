@@ -7,7 +7,6 @@ vim.opt.breakindent = true
 vim.cmd 'language en_US'
 vim.opt.shiftwidth = 2
 vim.opt.tabstop = 2
-
 -- Save undo history
 vim.opt.undofile = true
 
