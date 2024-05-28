@@ -29,7 +29,9 @@ require('lazy').setup({
 
   require 'plugins/autopairs',
 
-  require 'plugins/copilot',
+  require 'plugins/obsidian',
+
+  require 'plugins/glow',
 }, {
   ui = {
     -- If you are using a Nerd Font: set icons to an empty table which will use the
