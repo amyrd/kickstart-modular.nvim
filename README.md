@@ -1,8 +1,9 @@
-# amyr's nvim
+# Amyr's nvim
 
 ## Introduction
 
 *This is a fork of [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) that moves from a single file to a multi file configuration.*
+This is my setup, it's definitely not perfect but it fits my needs (for now)
 
 ## Installation
 
@@ -93,6 +94,8 @@ nvim
 
 That's it! Lazy will install all the plugins you have. Use `:Lazy` to view
 current plugin status. Hit `q` to close the window.
+
+You should see a mimimkyu ascii art greeting you and some **psuedo-randomly-generated-programming** related quote under! pretty neat huh?
 
 Read through the `init.lua` file in your configuration folder for more
 information about extending and exploring Neovim. That also includes
