@@ -1,4 +1,3 @@
-![image](https://github.com/amyrd/nvim-dotfiles/assets/114027678/dd56d4f4-190a-4de6-b1b8-3e60cd91e53f)
 # amyr's nvim
 
 ## Introduction
