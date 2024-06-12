@@ -89,7 +89,7 @@ Start Neovim
 ```sh
 nvim
 ```
-![image](https://github.com/amyrd/nvim-dotfiles/assets/114027678/7a6b4021-cb80-4e6a-b46d-842fb828d5fa)
+![image](https://github.com/amyrd/nvim-dotfiles/assets/114027678/7a6b4021-cb80-4e6a-b46d-842fb828d5fa|200)
 
 
 That's it! Lazy will install all the plugins you have. Use `:Lazy` to view
